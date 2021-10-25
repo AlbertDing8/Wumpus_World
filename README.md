@@ -1,2 +1,2 @@
 # Wumpus_World
-Wumpus World Game
+Wumpus World game made by Albert Ding in 8 hours.
